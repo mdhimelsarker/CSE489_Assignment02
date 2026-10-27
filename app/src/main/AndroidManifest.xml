@@ -23,6 +23,25 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".CustomMessageActivity"
+            android:exported="false"
+            android:label="@string/title_custom_message_activity"
+            android:parentActivityName=".MainActivity" />
+
+        <activity
+            android:name=".CustomBroadcastActivity"
+            android:exported="false"
+            android:label="@string/title_custom_broadcast_activity"
+            android:parentActivityName=".CustomMessageActivity" />
+
+        <activity
+            android:name=".BatteryReceiverActivity"
+            android:exported="false"
+            android:label="@string/title_battery_receiver_activity"
+            android:parentActivityName=".MainActivity" />
+
     </application>
 
 </manifest>

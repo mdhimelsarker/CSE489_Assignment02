@@ -11,8 +11,36 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="desc_broadcast_receiver">Broadcast Receiver placeholder fragment screen.</string>
+    <string name="desc_broadcast_receiver">Select a Broadcast Receiver option below and tap Proceed.</string>
     <string name="desc_image_scale">Image Scale placeholder fragment screen.</string>
     <string name="desc_video">Video player placeholder fragment screen.</string>
     <string name="desc_audio">Audio player placeholder fragment screen.</string>
+
+    <!-- Part 2 Strings -->
+    <string name="select_receiver_type">Select Receiver Type</string>
+    <string name="option_custom_broadcast">Custom broadcast receiver</string>
+    <string name="option_battery_receiver">System battery notification receiver</string>
+    <string name="btn_proceed">Proceed</string>
+
+    <string name="title_custom_message_activity">Enter Custom Message</string>
+    <string name="title_custom_broadcast_activity">Custom Broadcast Receiver</string>
+    <string name="title_battery_receiver_activity">Battery Level Receiver</string>
+
+    <string name="label_enter_message">Enter Broadcast Message:</string>
+    <string name="hint_enter_message">Type your message here&#8230;</string>
+    <string name="btn_next_message">Next: Go to Receiver</string>
+    <string name="err_empty_message">Message cannot be empty!</string>
+
+    <string name="label_message_to_send">Message to Broadcast:</string>
+    <string name="btn_send_broadcast">Send Broadcast</string>
+    <string name="label_received_broadcast">Received Broadcast Message:</string>
+    <string name="msg_waiting_for_broadcast">Waiting for custom broadcast&#8230;</string>
+
+    <string name="label_battery_level">Current Battery Level</string>
+    <string name="battery_unknown">Battery status unavailable</string>
+    <string name="battery_default_level">--</string>
+    <string name="battery_percentage_format">%1$d%%</string>
+    <string name="battery_reading_status">Reading status&#8230;</string>
+    <string name="battery_info_header">How Battery Broadcast Works</string>
+    <string name="battery_info_note">Note: ACTION_BATTERY_CHANGED is a sticky broadcast. The system caches the last battery intent, allowing immediate retrieval and live dynamic updates.</string>
 </resources>
