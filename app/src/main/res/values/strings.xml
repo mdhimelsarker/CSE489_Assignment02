@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CSE 489 Assignment 2</string>
+    <string name="drawer_header_title">CSE 489 Assignment</string>
+    <string name="drawer_header_subtitle">Navigation Drawer App</string>
+
+    <string name="title_broadcast_receiver">Broadcast Receiver</string>
+    <string name="title_image_scale">Image Scale</string>
+    <string name="title_video">Video</string>
+    <string name="title_audio">Audio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="desc_broadcast_receiver">Broadcast Receiver placeholder fragment screen.</string>
+    <string name="desc_image_scale">Image Scale placeholder fragment screen.</string>
+    <string name="desc_video">Video player placeholder fragment screen.</string>
+    <string name="desc_audio">Audio player placeholder fragment screen.</string>
+</resources>
