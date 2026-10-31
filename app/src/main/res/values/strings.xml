@@ -43,4 +43,17 @@
     <string name="battery_reading_status">Reading status&#8230;</string>
     <string name="battery_info_header">How Battery Broadcast Works</string>
     <string name="battery_info_note">Note: ACTION_BATTERY_CHANGED is a sticky broadcast. The system caches the last battery intent, allowing immediate retrieval and live dynamic updates.</string>
+
+    <!-- Part 3 Strings -->
+    <string name="title_image_scale_heading">Image Scale with Pinch-to-Zoom</string>
+    <string name="desc_image_scale_instruction">Pinch with two fingers to zoom in or out. Drag to pan when zoomed in. Double-tap to toggle zoom.</string>
+    <string name="label_image_url">Image HTTPS URL:</string>
+    <string name="hint_image_url">https://picsum.photos/id/1025/1200/800</string>
+    <string name="btn_load_image">Load Image</string>
+    <string name="btn_reset_zoom">Reset Zoom</string>
+    <string name="btn_retry">Retry</string>
+    <string name="zoom_level_format">Zoom: %1$.1fx</string>
+    <string name="err_image_load_failed">Failed to load image from URL. Please check network connection or verify the URL.</string>
+    <string name="err_empty_url">URL cannot be empty!</string>
+    <string name="err_invalid_url">Please enter a valid HTTPS URL starting with https://</string>
 </resources>
