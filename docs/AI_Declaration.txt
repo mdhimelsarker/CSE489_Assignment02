@@ -1,0 +1,55 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: MD HIMEL SARKER
+Student ID: 22301063
+Assignment: CSE 489 Assignment 2
+Date: 01/11/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED
+------------------------------------------------------------
+ChatGPT
+Google Gemini
+
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE
+------------------------------------------------------------
+Learning/understanding concepts
+Debugging my code
+Generating code snippets
+Design/styling ideas
+Image generation
+
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+Used AI assistants (Google Gemini and ChatGPT) to learn Android architecture concepts, debug compilation errors, structure the Navigation Drawer fragments, implement the custom matrix-based pinch-to-zoom image view, and integrate AndroidX Media3 ExoPlayer for in-app video and audio streaming.
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: ZoomImageView.kt Section: Matrix pinch-to-zoom & gesture handling
+File: VideoFragment.kt Section: ExoPlayer Media3 streaming & error handling
+File: AudioFragment.kt Section: ExoPlayer audio control & seekbar tracking
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: MD HIMEL SARKER
+Date: 01/11/2026
+
+============================================================
