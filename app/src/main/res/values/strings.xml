@@ -56,4 +56,24 @@
     <string name="err_image_load_failed">Failed to load image from URL. Please check network connection or verify the URL.</string>
     <string name="err_empty_url">URL cannot be empty!</string>
     <string name="err_invalid_url">Please enter a valid HTTPS URL starting with https://</string>
+
+    <!-- Part 4 Strings (Video & Audio) -->
+    <string name="title_video_heading">Video Player (Media3 ExoPlayer)</string>
+    <string name="desc_video_instruction">Stream sample video using AndroidX Media3 ExoPlayer. Use native playback controls to play, pause, and seek.</string>
+    <string name="label_video_url">Video HTTPS URL:</string>
+    <string name="default_video_url">https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4</string>
+    <string name="btn_load_video">Load Video</string>
+    <string name="err_video_load_failed">Failed to play video. Check network connection or video URL.</string>
+
+    <string name="title_audio_heading">Audio Player (Media3 ExoPlayer)</string>
+    <string name="desc_audio_instruction">Stream sample audio. Use Play, Pause, and Stop controls, and drag seekbar to navigate track.</string>
+    <string name="label_audio_url">Audio HTTPS URL:</string>
+    <string name="default_audio_url">https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3</string>
+    <string name="default_audio_title">SoundHelix Sample MP3 Track #1</string>
+    <string name="btn_load_audio">Load Audio</string>
+    <string name="btn_audio_play">Play</string>
+    <string name="btn_audio_pause">Pause</string>
+    <string name="btn_audio_stop">Stop</string>
+    <string name="err_audio_load_failed">Failed to play audio. Check network connection or audio URL.</string>
+    <string name="time_zero">00:00</string>
 </resources>
